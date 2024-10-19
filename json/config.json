@@ -1,0 +1,52 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "restartMqtt": {
+        "enable": true,
+        "minutes": 120
+    },
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "adminOnly": false,
+    "commandDisabled": [
+        "csl.js",
+        "uno.js"
+    ],
+    "eventDisabled": [],
+    "DeveloperMode": false,
+    "EMAIL": "botmei312@gmail.com",
+    "PASSWORD": "13072001@Tt",
+    "OTPKEY": "",
+    "BOTNAME": "♡⃝ ThanhTung Bot ◡̈ ☽⋆",
+    "PREFIX": "!",
+    "BOXADMIN": "61557876557356",
+    "NDH": [
+        "61557876557356",
+        "",
+        ""
+    ],
+    "ADMINBOT": [
+        "61557876557356",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "APPSTATEPATH": "fbstate.json",
+    "version": "4.5.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "log": {
+        "enable": true
+    }
+}
